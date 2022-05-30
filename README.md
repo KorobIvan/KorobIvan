@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 align="center">Hi there, I'm <a href="https://t.me/korobivan" target="_blank">Ivan</a> 
+<👋></h3>
+
 
 <!--
 **KorobIvan/KorobIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
