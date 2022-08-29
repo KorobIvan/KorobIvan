@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm <a href="https://t.me/korobivan" target="_blank">Ivan</a> 👋</h3>
-<h4>🌱 I’m currently learning python, SQL, django.</h4>
+<h4>🌱 I’m currently learning Python, SQL, django.</h4>
 <h4>📫 How to reach me: van.v2010@yandex.ru</h3>
 <h4>✏About my work experience: https://career.habr.com/ivankorob</h4>
 <h4>🧑About me: 🏂 🏉 💻 🎮 🎲</h4>
